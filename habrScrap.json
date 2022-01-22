@@ -1,142 +1,114 @@
 [
     {
-        "url": "https://habr.com/ru/post/592869/",
-        "title": "Опрос: миграция айтишников из Беларуси после событий 2020",
-        "author": "selivanov_pavel",
-        "time": "вчера в 03:18",
-        "comments": "104"
+        "url": "https://habr.com/ru/post/647129/",
+        "title": "Современное пиратство глазами моряка",
+        "author": "Catx2",
+        "time": "сегодня в 12:29",
+        "comments": "122"
     },
     {
-        "url": "https://habr.com/ru/company/ruvds/blog/590851/",
-        "title": "Григорий Остер — Вредные советы для учителей программировать",
-        "author": "Nurked",
-        "time": "вчера в 12:00",
-        "comments": "19"
+        "url": "https://habr.com/ru/post/647093/",
+        "title": "Немного наблюдений касательно вороньего зрения",
+        "author": "GeeksCat",
+        "time": "вчера в 21:10",
+        "comments": "50"
     },
     {
-        "url": "https://habr.com/ru/company/timeweb/blog/593003/",
-        "title": "Как я в десять раз ускорил работу таблицы Google одной строкой CSS",
+        "url": "https://habr.com/ru/company/timeweb/blog/647095/",
+        "title": "Орбитальный полёт Starship — новости с полей",
         "author": "Shyhartskoi",
-        "time": "вчера в 15:38",
-        "comments": "3"
+        "time": "вчера в 21:27",
+        "comments": "14"
     },
     {
-        "url": "https://habr.com/ru/company/parallels/blog/592985/",
-        "title": "Мы создали автоматизированный YouTube-канал на Python и он стал виральным",
-        "author": "Cheburator2033",
-        "time": "вчера в 14:46",
+        "url": "https://habr.com/ru/company/ruvds/blog/646927/",
+        "title": "Двадцать один год XXI века в мемах. Часть 3: 2011-2015",
+        "author": "Erwinmal",
+        "time": "сегодня в 13:00",
         "comments": "2"
     },
     {
-        "url": "https://habr.com/ru/post/592863/",
-        "title": "Открытые данные Министерства культуры РФ — оказались не открытыми данными",
-        "author": "PereslavlFoto",
-        "time": "вчера в 11:18",
-        "comments": "15"
+        "url": "https://habr.com/ru/company/timeweb/blog/647115/",
+        "title": "Каким может быть Интернет в освоенной Солнечной системе",
+        "author": "lozga",
+        "time": "сегодня в 15:08",
+        "comments": "10"
     },
     {
-        "url": "https://habr.com/ru/company/yandex/blog/592903/",
-        "title": "Поговорим про собеседования: взгляд бэкендера",
-        "author": "maxim_babenko",
-        "time": "вчера в 11:36",
-        "comments": "49"
-    },
-    {
-        "url": "https://habr.com/ru/company/selectel/blog/592749/",
-        "title": "Стратегия Intel по нейтрализации ARM",
-        "author": "fortyseven",
-        "time": "вчера в 09:53",
-        "comments": "18"
-    },
-    {
-        "url": "https://habr.com/ru/post/592905/",
-        "title": "Parole*, paro*es, *aroles…",
-        "author": "AiratNazmiev",
-        "time": "вчера в 11:17",
-        "comments": "12"
-    },
-    {
-        "url": "https://habr.com/ru/company/domclick/blog/591611/",
-        "title": "Построение отказоустойчивого решения на базе BGP с использованием облачной платформы",
-        "author": "EvgenNet",
-        "time": "вчера в 11:00",
+        "url": "https://habr.com/ru/company/ispsystem/blog/647085/",
+        "title": "Как большие ИТ-компании стали настоящими гигантами: история поглощений",
+        "author": "omyhosts",
+        "time": "вчера в 21:21",
         "comments": "5"
     },
     {
-        "url": "https://habr.com/ru/company/brave/blog/587968/",
-        "title": "Защита браузера от фингерпринтинга — опыт Brave",
-        "author": "BraveSoftware",
-        "time": "вчера в 10:26",
-        "comments": "2"
+        "url": "https://habr.com/ru/post/647149/",
+        "title": "Мозговой штурм работает. Взгляд с точки зрения спортивного ЧГК",
+        "author": "OlegSivchenko",
+        "time": "сегодня в 16:37",
+        "comments": "5"
     },
     {
-        "url": "https://habr.com/ru/company/vivaldi/blog/592881/",
-        "title": "Vivaldi-5.0 — Искусство, доступное всем",
-        "author": "Shpankov",
-        "time": "вчера в 11:02",
-        "comments": "37"
+        "url": "https://habr.com/ru/post/647117/",
+        "title": "HAQuDA: новый взгляд на мониторы качества воздуха",
+        "author": "IlorDash",
+        "time": "сегодня в 11:01",
+        "comments": "25"
     },
     {
-        "url": "https://habr.com/ru/post/593043/",
-        "title": "Фальсифицируем выборы в Государственную Думу 2021 года, а потом отменяем фальсификации с помощью машинного обучения",
-        "author": "zzzzbh",
-        "time": "вчера в 17:57",
-        "comments": "9"
+        "url": "https://habr.com/ru/post/647163/",
+        "title": "Сколько микросхем производит Россия в год?",
+        "author": "toborobot_ru",
+        "time": "сегодня в 18:34",
+        "comments": "1"
     },
     {
-        "url": "https://habr.com/ru/company/dododev/blog/592443/",
-        "title": "Не пишем код целый месяц и нам нормально",
-        "author": "akaDuality",
-        "time": "вчера в 13:54",
+        "url": "https://habr.com/ru/post/647135/",
+        "title": "О любви Рунета к сториз и анонимным просмотрам в инстаграм",
+        "author": "wilelf",
+        "time": "сегодня в 15:28",
+        "comments": "15"
+    },
+    {
+        "url": "https://habr.com/ru/post/647099/",
+        "title": "Управление рисками проекта",
+        "author": "Belousova_Julia",
+        "time": "вчера в 21:36",
         "comments": "4"
     },
     {
-        "url": "https://habr.com/ru/company/vivaldi/blog/592885/",
-        "title": "Vivaldi 5.0 Android — Для больших и маленьких",
-        "author": "Shpankov",
-        "time": "вчера в 11:02",
-        "comments": "8"
+        "url": "https://habr.com/ru/post/647155/",
+        "title": "Мини ПК Topton Mini PC на базе AMD Ryzen 5000U серии",
+        "author": "mzed220",
+        "time": "сегодня в 16:58",
+        "comments": "12"
     },
     {
-        "url": "https://habr.com/ru/post/593085/",
-        "title": "Как я снимал трейлер несуществующего фильма",
-        "author": "Marik1001",
-        "time": "вчера в 21:36",
-        "comments": "13"
+        "url": "https://habr.com/ru/company/audiomania/blog/647041/",
+        "title": "Ситуация: все больше музыкальных компаний выходит на IPO — зачем они это делают",
+        "author": "mirhifi",
+        "time": "вчера в 23:10",
+        "comments": "0"
     },
     {
-        "url": "https://habr.com/ru/company/hexlet/blog/592961/",
-        "title": "Убираем JavaScript. Как при помощи htmx красиво использовать HTML и уменьшить объем кода",
-        "author": "OlegSabitov",
-        "time": "вчера в 14:47",
-        "comments": "8"
+        "url": "https://habr.com/ru/post/647143/",
+        "title": "SSH Picker в ежедневной работе сетевого инженера",
+        "author": "alexvangog",
+        "time": "сегодня в 15:57",
+        "comments": "2"
     },
     {
-        "url": "https://habr.com/ru/company/baikalelectron/blog/592975/",
-        "title": "Как запустить Arch Linux на Baikal-M",
-        "author": "Baikalelec",
-        "time": "вчера в 14:26",
-        "comments": "13"
+        "url": "https://habr.com/ru/post/647141/",
+        "title": "N+1 больше не будет проблемой",
+        "author": "djezzzl",
+        "time": "сегодня в 15:53",
+        "comments": "4"
     },
     {
-        "url": "https://habr.com/ru/company/htmlacademy/blog/592937/",
-        "title": "Как разработчику переехать из России в Германию и ни о чём не жалеть",
-        "author": "htmlacademy",
-        "time": "вчера в 12:47",
-        "comments": "26"
-    },
-    {
-        "url": "https://habr.com/ru/company/skillfactory/blog/593025/",
-        "title": "Самые популярные языки программирования 2021 года. Свежий хабратоп",
-        "author": "stranger777",
-        "time": "вчера в 17:12",
-        "comments": "30"
-    },
-    {
-        "url": "https://habr.com/ru/post/592629/",
-        "title": "Как мы собирали компьютер для российского инженера-проектировщика",
-        "author": "vilianov",
-        "time": "вчера в 14:14",
-        "comments": "37"
+        "url": "https://habr.com/ru/post/646869/",
+        "title": "Всё о проекте «Спутниковый интернет». Часть 40. Испанский «привет» СтарЛинку",
+        "author": "vsatman",
+        "time": "сегодня в 10:51",
+        "comments": "11"
     }
 ]

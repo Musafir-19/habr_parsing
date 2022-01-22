@@ -24,8 +24,6 @@ if res.status_code == 200:
             'span', class_='tm-article-comments-counter-link__value').text.strip()
         habr.append({'url': url, 'title': title, 'author': author,
                     'time': time, 'comments': comments})
-        print(comments)
-
 
 with open('habrScrap.json', 'w', encoding='utf-8') as f:
     json.dump(habr, f, indent=4, ensure_ascii=False)
