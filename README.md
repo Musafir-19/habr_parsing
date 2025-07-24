@@ -1,13 +1,14 @@
-## Парсер
-### Парсер собирает информацию о постах на сайте https://habrahabr.ru/ и сохраняет в БД
+## Parser
+### The parser collects information about posts from the website https://habrahabr.ru/ and saves it to a database.
 
-### Установите Python версии 3.6 и выше
-#### Зависимости
+### Install Python version 3.6 or higher
 
-#### Установите зависимости из файла requirements.txt
-#### Команда для Windows `pip install -r requirements.txt`
-#### Команда для MacOS и Linux `pip3 install -r requirements.txt`
+#### Dependencies
 
-### Запуск 
-#### Для запуска на Windows `python .\scrap.py`
-#### Для запуска на MacOs или Linix `python3 .\scrap.py`
+#### Install the dependencies from the requirements.txt file:
+#### For Windows: `pip install -r requirements.txt`
+#### For MacOS and Linux: `pip3 install -r requirements.txt`
+
+### Run 
+#### To run on Windows: `python .\scrap.py`
+#### To run on MacOS or Linux: `python3 .\scrap.py`
